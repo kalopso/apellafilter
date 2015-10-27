@@ -1,0 +1,22 @@
+{
+    "name": "kalopso/apellafilter",
+    "type": "library",
+    "description": "Utility Class for Laravel 5 to assist in easily filtering paginated results.",
+    "keywords": ["filter", "laravel"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "authors": [
+    	{
+    		"name": "Apella",
+    		"email": "elena@apella.su",
+    		"homepage": "http://apella.su"
+    	}
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"apellafilter\\": "src"
+    	}
+    }
+}
